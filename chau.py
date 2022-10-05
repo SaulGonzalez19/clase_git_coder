@@ -1,5 +1,5 @@
 def chau():
     print("chau")
 
-def despedirse():
-    print("adios")
+# def despedirse():
+#     print("adios")
